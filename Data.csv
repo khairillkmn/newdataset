@@ -1,7 +1,7 @@
 Age,Income,Graduate
 24,35000,no
 26,48000,no
-35,54000,yes
+,54000,yes
 40,61000,yes
-50,49600,no
+50,,no
 35,50000,yes
