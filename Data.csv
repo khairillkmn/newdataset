@@ -1,7 +1,11 @@
-Age,Income,Graduate
-24,35000,no
-26,48000,no
-,54000,yes
-40,61000,yes
-50,,no
-35,50000,yes
+Brand,Model,Year,Price(USD)
+Porsche,911,2022,101200
+Lamborghini,Huracan,2021,274390
+Ferrari,488 GTB,2022,333750
+Audi,R8,2022,142700
+McLaren,720s,,298000
+BMW,M8,2022,130000
+Mercedes,,2021,118500
+Chevrolet,Corvette,2021,59900
+Ford,Mustang Shelby GT500,2022,81000
+Nissan,GT-R Nismo,2021,21200
