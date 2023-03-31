@@ -1,11 +1,16 @@
 Country,Age,Salary,Purchased
-France,44,72000,No
-Spain,27,48000,Yes
-Germany,30,54000,No
-Spain,38,61000,No
-Germany,40,,Yes
-France,35,58000,Yes
-Spain,,52000,No
-France,48,79000,Yes
-Germany,50,83000,No
-France,37,67000,Yes
+India,34,92000,Yes
+Sri lanka,22,25000,Yes
+China,31,74000,Yes
+Sri lanka,29,,No
+China,55,98000,Yes
+India,24,30000,No
+Sri lanka,28,40000,No
+India,,60000,No
+China,51,89000,Yes
+India,44,78000,Yes
+Sri lanka,21,20000,No
+China,25,30000,Yes
+India,33,45000,Yes
+India,42,65000,Yes
+Sri lanka,33,22000,No
